@@ -1,0 +1,96 @@
+body {
+    background: #000;
+    color: #fff;
+    margin: 5%;
+    font-family: sans-serif;
+    /* POTENTIAL BACKGROUND IMAGE background-image: url('https://www.eoi.es/blogs/guillermojoselatorre/files/2014/03/Hammer-and-Sickle-via-Bigstock-Photo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+  }
+  
+  .navigation {
+    width: 90%;
+    top: 0;
+    z-index: 1;
+    background: black;
+    position: fixed;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .navigation li {
+    padding: 5px;
+    border: solid 1px red;
+    border-radius: 3px;
+    margin: 5px;
+    display: inline-block;
+  }
+  
+  .navigation a:link {
+    color: white;
+  }
+  
+  .navigation a:hover {
+    color: red;
+  }
+  
+  .navigation a:visited {
+    color: chartreuse;
+  }
+
+
+  .title {
+    width: 90%;
+    text-align: center;
+    color: black;
+    background-color: white;
+    margin-top: 240px;
+  }
+  
+  .subtitle {
+    width: 90%;
+    text-align: center;
+    color: red;
+  }
+  
+  .Marx-image {
+    width: 50%;
+    min-height: 360px;
+    margin-left: 20%;
+    overflow: hidden;
+  }
+  
+  .Marx-image img {
+    width: 100%;
+    height: auto;
+    display: block; 
+  }
+  
+  h3 {
+    color: blueviolet;
+  }
+  
+  p a:link {
+    color: red;
+  }
+  
+  p a:hover {
+    color: green; 
+  }
+  
+  p a:visited {
+    color: chartreuse;
+  }
+  
+  @media only screen and (min-width: 360px) {
+    
+  }
+  
+  @media only screen and (min-width: 480px) {
+    
+  }
+  
