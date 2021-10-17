@@ -9,6 +9,7 @@ body {
     background-repeat: no-repeat; */
   }
   
+  /*Nav CSS
   .navigation {
     width: 90%;
     top: 0;
@@ -41,14 +42,14 @@ body {
   .navigation a:visited {
     color: chartreuse;
   }
-
+*/
 
   .title {
     width: 90%;
     text-align: center;
     color: black;
     background-color: white;
-    margin-top: 200px;
+    margin-top: 20px;
   }
   
   .subtitle {
